@@ -3,6 +3,7 @@
 	Copyright: CCPL 2017 - Round 1 
 	Author: Christian David Gutierrez
 	Date: 21/02/2017
+	* URL * https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3086
 */
 
 
