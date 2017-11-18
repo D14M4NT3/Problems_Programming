@@ -13,5 +13,3 @@ Adicionalmente se manejaran las soluciones implementadas de forma presencial en 
   - https://www.programmingleague.org/
 
 Se toma esta recopilación de soluciones como una linea de tiempo en pos de la preparación para la clasificación a la maratón múndial/regional de programación.
-
-Prueba de Sincronización
