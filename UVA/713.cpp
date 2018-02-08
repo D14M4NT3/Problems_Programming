@@ -1,3 +1,5 @@
+// NO FUNCIONA, se hizo a modo de prueba.
+
 #include <bits/stdc++.h>
 
 long long int rev(long long int x){
